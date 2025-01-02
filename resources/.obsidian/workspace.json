@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello.md",
+                "file": "各地区招生政策.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello"
+              "title": "各地区招生政策"
             }
           }
         ]
@@ -160,7 +160,7 @@
   },
   "active": "6c9fe9e65c1577fc",
   "lastOpenFiles": [
-    "hello.md",
+    "各地区招生政策.md",
     "欢迎.md"
   ]
 }
